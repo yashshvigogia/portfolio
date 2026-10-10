@@ -21,7 +21,8 @@ export const apiPreview = {
   role: "Software Engineer",
   company: "GiniLytics IT Solutions",
   experience: "3 years",
-  stack: ["React", "Next.js", "Node.js", "PostgreSQL"],
+  stack: ["React", "Next.js", "Node.js", "Express.js"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB"],
   integrations: ["Stripe", "Twilio", "SendGrid"],
   openToWork: true,
 };
