@@ -314,7 +314,7 @@ function Contact() {
         </ul>
       </div>
       <footer className="wrap footer">
-        © {new Date().getFullYear()} {profile.name}. Built with React.
+        © {new Date().getFullYear()} {profile.name} | Software Engineer
       </footer>
     </section>
   );
