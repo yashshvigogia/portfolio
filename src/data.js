@@ -32,7 +32,7 @@ export const experience = {
   roles: [
     {
       title: "Software Engineer",
-      period: "Aug 2025 – Present",
+      period: "Aug 2025 – Oct 2026",
       points: [
         "Work directly with clients from requirements gathering through delivery.",
         "Collaborate with cross-functional teams to deliver scalable web applications while keeping code quality high.",
